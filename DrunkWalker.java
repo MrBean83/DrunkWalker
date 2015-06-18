@@ -1,5 +1,5 @@
 /**
- * Created by Henroid83 on 3/9/15.
+ * Created by Henry Nichols on 3/9/15.
  */
 
 import java.lang.Math;
